@@ -9,7 +9,7 @@ I'm a Front-End developer from Oslo, Norway :norway:
 
 ## My Toolkit
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react)](https://skills.thijs.gg)
+![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react)
 
 ## Currently learning
 
