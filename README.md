@@ -57,6 +57,7 @@ I have always been fascinated by problem-solving, and I started with simple HTML
 - :airplane: &nbsp; Traveling
 - :clapper: &nbsp; Watch movies
 - :book: &nbsp; Reading good books
+- :notebook: &nbsp; Learn something new
 
 
 ![Image](https://media2.giphy.com/media/Oe4V14aLzv7JC/giphy.gif?cid=ecf05e47ti997ybq14mt0u4f6exte7qzcu01y0ytion96mex&rid=giphy.gif&ct=g)
