@@ -52,7 +52,7 @@ I have always been fascinated by problem-solving, and I started with simple HTML
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
 </div>
 
-Also currently learning Back-End
+Also currently getting a Professional Degree in Back-End Development
 
 ## Things I like:
 - :airplane: &nbsp; Traveling
